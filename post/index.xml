@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BB &amp; CY&#39;s DOMUM</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on BB &amp; CY&#39;s DOMUM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Feb 2021 20:15:46 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_post</title>
+      <link>http://example.org/p/test_post/</link>
+      <pubDate>Sat, 13 Feb 2021 20:15:46 +0800</pubDate>
+      
+      <guid>http://example.org/p/test_post/</guid>
+      <description>It&amp;rsquo;s me, Imoen! It&amp;rsquo;s me, Imoen!</description>
+    </item>
+    
+  </channel>
+</rss>

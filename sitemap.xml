@@ -13,17 +13,31 @@
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2021-02-13T20:15:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://example.org/p/test_post/</loc>
     <lastmod>2021-02-13T20:15:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/search/</loc>
   </url>
   
   <url>
